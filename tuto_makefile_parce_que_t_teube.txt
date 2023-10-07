@@ -1,0 +1,7 @@
+Comme t un peu con sur les bords je te met un tuto:
+
+Pour compiler: tu tapes juste "make" dans linux parce que sinon ça marche pas ta vu
+
+Pour exécuter bah tu fait comme avant avec un vieux ./
+
+Pour supprimer le fichier exécutable tu fait "make clean" et après y'a plus de fichier exécutable (ce serait bien si on pouvais faire ça avec les noirs aussi)
